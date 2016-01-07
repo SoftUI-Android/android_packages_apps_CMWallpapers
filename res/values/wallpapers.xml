@@ -16,6 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="partner_wallpapers" translatable="false">
+	    <item>defaultwallpaper</item>
         <item>arc</item>
         <item>harmony</item>
         <item>headcase</item>
@@ -24,6 +25,7 @@
     </string-array>
 
     <string-array name="info" translatable="false">
+	    <item>defaultwallpaper - Asher Simonds</item>
         <item>Arc - Asher Simonds</item>
         <item>Harmony - Asher Simonds</item>
         <item>Headcase - Asher Simonds</item>
